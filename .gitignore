@@ -1,0 +1,15 @@
+target/
+classes/
+src/main/java/META-INF/
+!.mvn/wrapper/maven-wrapper.jar
+logging.path_IS_UNDEFINED/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+logs/
+.DS_Store
+/log/
+/logging.path_IS_UNDEFINED
